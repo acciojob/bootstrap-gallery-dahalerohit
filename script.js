@@ -1,1 +1,3 @@
-//your JS code here. If required.
+function showImage(src) {
+      document.getElementById('lightboxImage').src = src;
+    }
